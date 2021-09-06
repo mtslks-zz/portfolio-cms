@@ -8,7 +8,7 @@ hero:
   image: /img/hero.jpeg
   secondButton:
     icon: whatsapp
-    link: '/#contact'
+    link: '+436604499722'
     text: Contact
   social:
     facebook:
