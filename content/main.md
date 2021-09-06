@@ -11,22 +11,26 @@ hero:
     link: '+436604499722'
     text: Contact
   social:
-    facebook:
-      link: 'https://facebook.com/mathias.lukas'
-      show: false
+    twitter:
+      link: 'https://twitter.com/mthslks'
+      show: true
+    github:
+      link: 'http://github.com/mtslks'
+      show: true
     instagram:
       link: 'https://instagram.com/mthslks'
       show: true
     linkedin:
       link: 'https://linkedin.com/in/mathiaslukas'
       show: true
+    
   typed:
     - text: fast websites.
     - text: beautiful logos.
     - text: great experiences.
 about:
   heading: Who am I?
-  image: /img/about.jpeg
+  image: /img/profilepic.jpg
   text: >
     I am a Junior Full Stack Developer, based in Vienna, Austria. 
 
