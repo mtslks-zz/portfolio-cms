@@ -28,7 +28,9 @@ about:
   heading: Who am I?
   image: /img/about.jpeg
   text: >
-    I am a Junior Full Stack Developer with a focus on building what matters. With more than 13 years of experience in the corporate and startup field, I am able to connect the dots for you and help you scale your business to a new level. Fields of expertise include Sales, Project Management, Marketing, SEO, built on a solid foundation of HTML, CSS, JavaScript, React.js, Node.js.
+    I am a Junior Full Stack Developer, based in Vienna, Austria. 
+
+    My focus lies on digital products with impact. With more than 13 years of experience in the corporate and startup field, I am able to connect the dots and help you scale your business to a new level by using the newest available web technologies.
 features:
   - icon: monitor-screenshot
     text: >
