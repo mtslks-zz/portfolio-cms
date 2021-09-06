@@ -2,9 +2,9 @@
 hero:
   firstButton:
     icon: briefcase-outline
-    link: '/#portofolio'
+    link: '/#portfolio'
     text: My work
-  heading: 'I''m Paco Cu, and I create'
+  heading: 'I''m Mathias Lukas, and I create'
   image: /img/hero.jpeg
   secondButton:
     icon: whatsapp
@@ -12,13 +12,13 @@ hero:
     text: Contact
   social:
     facebook:
-      link: 'https://facebook.com'
-      show: true
+      link: 'https://facebook.com/mathias.lukas'
+      show: false
     instagram:
-      link: 'https://instagram.com'
+      link: 'https://instagram.com/mthslks'
       show: true
     linkedin:
-      link: 'https://linkedin.com'
+      link: 'https://linkedin.com/in/mathiaslukas'
       show: true
   typed:
     - text: fast websites.
@@ -28,24 +28,19 @@ about:
   heading: Who am I?
   image: /img/about.jpeg
   text: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus
-    mi, sit amet consequat leo. Integer non dolor non elit sodales consequat.
-    Integer tempor sollicitudin massa, vel sollicitudin ante dictum eu.
+    I am a Junior Full Stack Developer with a focus on building what matters. With more than 13 years of experience in the corporate and startup field, I am able to connect the dots for you and help you scale your business to a new level. Fields of expertise include Sales, Project Management, Marketing, SEO, built on a solid foundation of HTML, CSS, JavaScript, React.js, Node.js.
 features:
   - icon: monitor-screenshot
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus
-      mi.
+      I will create beautiful websites that will not only be pleasing to the eyes of your customer, but help them find what they are looking for.
     title: UI/UX
   - icon: draw
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus
-      mi.
+      Unique logos that will complement how your brand is perceived, with love & attention to detail.
     title: Logo Design
   - icon: xml
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus
-      mi.
+      Going full circle from wire frame to final site, your website will be built with state-of-the-art web development technology.
     title: Web Development
 portfolio:
   projects:
@@ -75,6 +70,6 @@ portfolio:
       title: UIoUXy
   title: My work
 footer:
-  text: © John Doe
+  text: © Mathias Lukas
 ---
 
