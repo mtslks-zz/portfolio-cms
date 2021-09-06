@@ -2,9 +2,9 @@
 hero:
   firstButton:
     icon: briefcase-outline
-    link: '/#portfolio'
+    link: '/#portofolio'
     text: My work
-  heading: 'I''m Mathias Lukas, and I create'
+  heading: 'Hi! I''m Mathias Lukas, and I create'
   image: /img/hero.jpeg
   secondButton:
     icon: whatsapp
